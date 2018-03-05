@@ -4,3 +4,9 @@
 
 # Module directory
 .terraform/
+
+*.tfvars
+
+# LambCI Config Files
+.lambci.json
+package.json
